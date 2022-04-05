@@ -1,29 +1,16 @@
 /* My UX Skills Section */
 .flexContainer {
   display: flex;
-  padding: 60px 30px;
-  margin: auto;
-
+  background-color:;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  flex-direction: row;
 }
+
 .flexContainer div {
   width: 33%;
   padding: 25px;
-  margin: auto;
-  border: red;
-  display: flex;
   font-family: sculpin, sans-serif;
   font-weight: 400;
+}
 
-font-style: normal;
-}
-section {
-  margin: auto;
-  font-family: sculpin, sans-serif;
-  font-weight: 400;
-
-font-style: normal;
-}
-.flexitem {
-  display: flex;
-  margin: auto;
-}
